@@ -1,0 +1,57 @@
+.currentdate{
+    background-color: #AF69FA !important;
+    color: white !important;
+}
+
+.currentdate:hover{
+    background-color: #8332da !important;
+
+}
+
+.day{
+    width:100%;
+    line-height: 2;
+    border-top: 1px solid #F4F4F4;
+    border-left: 1px solid #F4F4F4;
+    color:#565656;
+}
+
+.day:hover{
+    background-color: #AF69FA;
+
+    color: white;
+}
+
+.otherMonth{
+    color: lightgray;
+}
+
+.weekday{
+    justify-self: center;
+    color: #d3d3d3;
+    align-self: end;
+    line-height: 3;
+}
+
+.icon-button:hover{
+    background-color: #8332da !important;
+    color: white;
+}
+
+.link:hover{
+    text-decoration: none !important;
+}
+
+Button:hover{
+    color: #8332da;
+}
+
+:focus{
+    border-style: none !important;
+}
+
+.delete-button:hover{
+    background-color: rgb(139, 139, 139) !important;
+    color: white;
+
+}
